@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yosef12212
 - 👀 I’m interested in learning coding in depth and do projects with developing new ideas
 - 🌱 I’m currently learning Computer science, Freshman sudent
-- 💞️ I’m looking to collaborate on future projects
+- 💞️ I’m looking to collaborate on future projects with any sort of creative ideas
 - 📫 How to reach me my instagram @natevillee
 
 <!---
